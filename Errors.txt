@@ -1,0 +1,4 @@
+Build failed:
+[07-Jun-25 9:37:58 PM, C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Copilot-main\Copilot.cs(145, 33)] CS0103: The name 'GetFollowingTarget' does not exist in the current context
+[07-Jun-25 9:37:58 PM, C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Copilot-main\Copilot.cs(170, 95)] CS0103: The name 'ShockBotCode' does not exist in the current context
+[07-Jun-25 9:37:58 PM, C:\Users\Admin\Desktop\ExileApi-Compiled-3.25-phrecia-2\Plugins\Source\Copilot-main\Copilot.cs(176, 112)] CS0103: The name 'PickUpItem' does not exist in the current context
